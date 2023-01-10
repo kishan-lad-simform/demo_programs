@@ -4,4 +4,4 @@ puts "Enter number2 : "
 number2=gets.chomp_to.i
 number3=number1*number2
 puts "Multiplication is #{number3}"
-puts "It's second updated"
+puts "It's for pulling"
